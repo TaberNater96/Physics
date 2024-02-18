@@ -17,11 +17,13 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 ## Project Summaries
 
 #### Solar System Animation
-For my term project in computational physics, I developed an animation that accurately depicts the solar system using, modeling the orbits of each planet. The code for this animation is built using VPython, otherwise known as GlowScript. This animation is a true-to-life representation, where the scale of the planets is proportional to the Sun, and each planet follows its real-life orbital path, velocity, rotation, and angle. Although the dropdown button for planet selection is not visible during recordings, the actual program allows users to select any planet and observe its orbit around the Sun. Going beyond the basics, I integrated an animated graph that dynamically updates to track and plot the distances of the planets throughout the animation, showcasing the vast scale of our solar system.
+For my term project in computational physics, I developed an animation that accurately depicts the solar system using, modeling the orbits of each planet. The code for this animation is built using VPython, otherwise known as GlowScript. This animation is a true-to-life representation, where the scale of the planets is proportional to the Sun, and each planet follows its real-life orbital path, velocity, rotation, and angle. 
 
 <div align="center">
 <img src="https://github.com/TaberNater96/Physics/blob/main/Solar%20System%20Animation/Animations/Solar%20System%20Animation.gif?raw=true" width="800" height="400">
 </div>
+
+Although the dropdown button for planet selection is not visible during recordings, the actual program allows users to select any planet and observe its orbit around the Sun. Going beyond the basics, I integrated an animated graph that updates in real-time to track and plot the distances of the planets throughout the animation, showcasing the vast scale of our solar system.
 
 <div align="center">
 <img src="https://github.com/TaberNater96/Physics/blob/main/Solar%20System%20Animation/Animations/Graph%20Animation.gif?raw=true" width="600" height="400">
