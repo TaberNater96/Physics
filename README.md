@@ -17,7 +17,7 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 &nbsp;
 
 <div align="center">
-  <h2>Project Summaries</h2>
+  <h2>Summaries</h2>
 </div>
 
 ## Solar System Animation
