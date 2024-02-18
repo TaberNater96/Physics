@@ -14,9 +14,11 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
   - [Solar System Animation (Term Project)](https://github.com/TaberNater96/Physics/tree/main/Solar%20System%20Animation)
 </details>
 
-## Project Summaries
+<div align="center">
+  <h2>Project Summaries</h2>
+</div>
 
-#### Solar System Animation
+## Solar System Animation
 For my term project in computational physics, I developed an animation that accurately depicts the solar system using, modeling the orbits of each planet. The code for this animation is built using VPython, otherwise known as GlowScript. This animation is a true-to-life representation, where the scale of the planets is proportional to the Sun, and each planet follows its real-life orbital path, velocity, rotation, and angle. The animation here is sped up to 10,000 times faster than in real life, but can be adjusted down to 1 if desired.
 
 <div align="center">
