@@ -18,11 +18,23 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 &nbsp;
 
 <div align="center">
-  <h2>Summaries</h2>
+  <h2>Quick Summaries</h2>
 </div>
 
 ## Table of Contents
 - [Solar System Animation](#solar-system-animation)
+
+<div id="solar-system-animation">
+  <h2>Pixel Focussing Using Fourier Transformations</h2>
+</div>
+
+This is probably my favorite transformation that I did in my computational physics class, where I took a blurred image in the form of a matrix and performed a complex inverse array transformation to unblur an image.
+
+![Blur](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Blur.png?raw=true)
+
+![Grid](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Grid%20Sample.png?raw=true)
+
+![Focussed](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Focussed.png?raw=true)
 
 <div id="solar-system-animation">
   <h2>Solar System Animation</h2>
