@@ -12,6 +12,7 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
   <summary><b>Click Here To Navigate To Each Project<b></summary>
     
   - [Solar System Animation (Term Project)](https://github.com/TaberNater96/Physics/tree/main/Solar%20System%20Animation)
+  - [Fourier and Lorentz Transformations](https://github.com/TaberNater96/Physics/tree/main/Fourier%20and%20Lorentz%20Transformations)
 </details>
 
 &nbsp;
