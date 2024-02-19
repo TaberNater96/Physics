@@ -22,6 +22,7 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 </div>
 
 ## Table of Contents
+- [Pixel Focussing Using Fourier Transformations](#pixel-focussing-using-fourier-transformations)
 - [Solar System Animation](#solar-system-animation)
 
 <div id="solar-system-animation">
