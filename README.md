@@ -58,19 +58,7 @@ Although the dropdown button for planet selection is not visible during recordin
   <h2>Lorenz Equations and the Strange Attractor</h2>
 </div>
 
-One of the most celebrated sets of differential equations in
-physics is the Lorenz equations:
-$$
-{d x\over d t} = \sigma(y-x),\qquad
-{d y\over d t} = rx - y - xz,\qquad
-{d z\over d t} = xy - bz,
-$$
-
-where $\sigma$, $r$, and $b$ are constants.  (The names $\sigma$, $r$,
-and $b$ are odd, but traditional---they are always used in these equations
-for historical reasons.)
-
-These equations were first studied by Edward Lorenz in 1963, who derived them from a simplified model of weather patterns. The reason for their fame is that they were one of the first incontrovertible examples of *deterministic chaos*, the occurrence of apparently random motion even though there is no randomness built into the equations. Producing a plot of z vs x creates a butterfly shaped plot where the plot never repeats itself.
+One of the most celebrated sets of differential equations in physics is the Lorenz equations, which were first studied by Edward Lorenz in 1963, who derived them from a simplified model of weather patterns. The reason for their fame is that they were one of the first incontrovertible examples of *deterministic chaos*, the occurrence of apparently random motion even though there is no randomness built into the equations. Producing a plot of z vs x creates a butterfly shaped plot where the plot never repeats itself.
 
 ![Random](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Random.png?raw=true)
 
