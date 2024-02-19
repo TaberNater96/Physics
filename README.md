@@ -2,10 +2,6 @@
   <h2><b>Physics Projects<b></h2>
 </div>
 
-My first encounter with programming stemmed from a course I took during my Physics degree called "Computational Physics" where we needed to calculate and visualize complex physics problems using Python. This programming language became my tool of choice for the years to come, enabling me to dive deep into data analysis and calculations that push the boundaries of what we understand about physics, skills that have become invaluable throughout my entire academic career. This particular repository is a testament to this journey, showcasing projects where theory meets practice, from calculating complex calculus equations to producing insightful and visually unique images. These projects represent just the beginning of my academic achievements and the depth of knowledge I've gained in both my Physics and Data Science studies. 
-
-Throughout a single 10-week term, I immersed myself in computational physics projects and assignments without any prior exposure to programming. This experience is a testament to my quick learning abilities and my capacity to tackle complex and unfamiliar challenges head-on. These projects marked the beginning of my journey to where I stand today, igniting my passion for data, science, and programming.
-
 &nbsp;
 
 <details>
@@ -16,6 +12,10 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 </details>
 
 &nbsp;
+
+My first encounter with programming stemmed from a course I took during my Physics degree called "Computational Physics" where we needed to calculate and visualize complex physics problems using Python. This programming language became my tool of choice for the years to come, enabling me to dive deep into data analysis and calculations that push the boundaries of what we understand about physics, skills that have become invaluable throughout my entire academic career. This particular repository is a testament to this journey, showcasing projects where theory meets practice, from calculating complex calculus equations to producing insightful and visually unique images. These projects represent just the beginning of my academic achievements and the depth of knowledge I've gained in both my Physics and Data Science studies. 
+
+Throughout a single 10-week term, I immersed myself in computational physics projects and assignments without any prior exposure to programming. This experience is a testament to my quick learning abilities and my capacity to tackle complex and unfamiliar challenges head-on. These projects marked the beginning of my journey to where I stand today, igniting my passion for data, science, and programming.
 
 <div align="center">
   <h2>Quick Summaries</h2>
