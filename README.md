@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Physics Projects</h2>
+  <h2><b>Physics Projects<b></h2>
 </div>
 
 My first encounter with programming stemmed from a course I took during my Physics degree called "Computational Physics" where we needed to calculate and visualize complex physics problems using Python. This programming language became my tool of choice for the years to come, enabling me to dive deep into data analysis and calculations that push the boundaries of what we understand about physics, skills that have become invaluable throughout my entire academic career. This particular repository is a testament to this journey, showcasing projects where theory meets practice, from calculating complex calculus equations to producing insightful and visually unique images. These projects represent just the beginning of my academic achievements and the depth of knowledge I've gained in both my Physics and Data Science studies. 
