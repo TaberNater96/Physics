@@ -70,3 +70,23 @@ One of the most celebrated sets of differential equations in physics is the Lore
   <h2>Light Wavelength and Intensities</h2>
 </div>
 
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Wave%20Diffraction.png?raw=true" width="600" height="400">
+</div>
+
+&nbsp;
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Lightwave%20Intensity.png?raw=true" width="600" height="500">
+</div>
+
+
+
+
+
+
+
+
+
+
+
