@@ -9,6 +9,7 @@
     
   - [Solar System Animation (Term Project)](https://github.com/TaberNater96/Physics/tree/main/Solar%20System%20Animation)
   - [Fourier and Lorentz Transformations](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Fourier%20and%20Lorentz%20Transformations.ipynb)
+  - [Light and Orbital Mechanics](https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Light%20and%20Orbital%20Mechanics.ipynb)
 </details>
 
 &nbsp;
@@ -25,6 +26,7 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 - [Pixel Focussing Using Fourier Transformations](#pixel-focussing-using-fourier-transformations)
 - [Solar System Animation](#solar-system-animation)
 - [Lorenz Equations and the Strange Attractor](#lorenz-equations-and-the-strange-attractor)
+- [Light Wavelength and Intensities](#light-and-orbital-mechanics)
 
 <div id="pixel-focussing-using-fourier-transformations">
   <h2>Pixel Focussing Using Fourier Transformations</h2>
@@ -63,3 +65,8 @@ One of the most celebrated sets of differential equations in physics is the Lore
 ![Random](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Random.png?raw=true)
 
 ![The Strange Attractor](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/The%20Strange%20Attractor.png?raw=true)
+
+<div id="light-and-orbital-mechanics">
+  <h2>Light Wavelength and Intensities</h2>
+</div>
+
