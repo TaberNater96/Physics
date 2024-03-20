@@ -7,8 +7,8 @@
 <details>
   <summary><b>Click Here To Navigate To Each Repository<b></summary>
     
-  - [Solar System Animation (Term Project)](https://github.com/TaberNater96/Physics/tree/main/Solar%20System%20Animation)
   - [Fourier and Lorentz Transformations](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Fourier%20and%20Lorentz%20Transformations.ipynb)
+  - [Solar System Animation (Term Project)](https://github.com/TaberNater96/Physics/tree/main/Solar%20System%20Animation)
   - [Light and Orbital Mechanics](https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Light%20and%20Orbital%20Mechanics.ipynb)
 </details>
 
