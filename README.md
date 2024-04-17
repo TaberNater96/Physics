@@ -70,10 +70,7 @@ One of the most celebrated sets of differential equations in physics is the Lore
   <h2>Light Wavelength and Intensities</h2>
 </div>
 
-This computational physics homework focuses on modeling the diffraction limit of a telescope. The primary objective is to use the Bessel function to describe the intensity distribution in the diffraction pattern produced when light passes through a circular aperture of a telescope. This pattern is not a single dot but a central bright spot surrounded by concentric rings.
-
-The code consists of two main parts:
-1. **Bessel Function Calculation**: Utilizing Simpson's rule, the code calculates the Bessel functions \( J_0(x) \), \( J_1(x) \), and \( J_2(x) \) for a range of \( x \) values and plots these functions. This demonstrates the oscillatory nature of Bessel functions which are crucial in describing wave phenomena such as diffraction.
+This assignment explores the diffraction limit of telescopes through an analysis of light diffraction patterns using Bessel functions. It demonstrates the application of Simpson's Rule to compute these functions, which are crucial for describing the intensity variations in the diffraction pattern as light passes through a telescope's circular aperture. The calculated Bessel functions illustrate the oscillatory nature typical of wave phenomena.
 
 <div align="center">
 <img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Wave%20Diffraction.png?raw=true" width="400" height="350">
@@ -81,13 +78,12 @@ The code consists of two main parts:
 
 &nbsp;
 
-2. **Diffraction Pattern Visualization**: This part generates a density plot of the diffraction pattern in the focal plane of a telescope. Using the calculated Bessel function \( J_1 \), it computes the intensity \( I(r) = \left(\frac{J_1(kr)}{kr}\right)^2 \) across a square region of the focal plane for a given wavelength. The resultant plot shows how the intensity varies with distance from the center, highlighting the characteristic central peak and surrounding dark and bright rings typical of circular diffraction patterns.
+Additionally, the code generates a detailed density plot of the circular diffraction pattern in the focal plane, showing how intensity varies with radial distance from the center. This visualization effectively highlights the central peak and surrounding concentric rings, illustrating the fundamental limits of resolution imposed by the physical properties of telescopes in astronomical observations.
 
 <div align="center">
 <img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Lightwave%20Intensity.png?raw=true" width="400" height="350">
 </div>
 
-These visualizations not only illustrate the theoretical concepts of wave diffraction and Bessel functions but also serve practical significance in astronomical observations, helping to understand the limits of resolution due to the physical properties of telescopes.
 
 
 
