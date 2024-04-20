@@ -10,7 +10,7 @@
   - [Fourier and Lorentz Transformations](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Fourier%20and%20Lorentz%20Transformations.ipynb)
   - [Solar System Animation (Term Project)](https://github.com/TaberNater96/Physics/tree/main/Solar%20System%20Animation)
   - [Light and Orbital Mechanics](https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Light%20and%20Orbital%20Mechanics.ipynb)
-  - [Glycolysis Model Analysis](https://github.com/TaberNater96/Physics/blob/main/Glycolysis%20Model%20Analysis/Glycolysis%20Model%20Analysis.ipynb)
+  - [Schrodinger Equations and Sunspot Distributions](https://github.com/TaberNater96/Physics/blob/main/Schrodinger%20Equations%20and%20Sunspot%20Distributions/Schrodinger%20Equations%20and%20Sunspot%20Distributions.ipynb)
 </details>
 
 &nbsp;
@@ -26,7 +26,7 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 ## Table of Contents
 - [Pixel Focussing Using Fourier Transformations](#pixel-focussing-using-fourier-transformations)
 - [Solar System Animation](#solar-system-animation)
-- [Glycolysis Model Analysis](#glycolysis-model-analysis)
+- [Schrodinger Equations and Sunspot Distributions](#schrodinger-equations-and-sunspot-distributions)
 - [Lorenz Equations and the Strange Attractor](#lorenz-equations-and-the-strange-attractor)
 - [Light Wavelength and Intensities](#light-and-orbital-mechanics)
 
@@ -64,16 +64,20 @@ Although the dropdown button for planet selection is not visible during recordin
 <img src="https://github.com/TaberNater96/Physics/blob/main/Solar%20System%20Animation/Animations/Graph%20Animation.gif?raw=true" width="600" height="400">
 </div>
 
-<div id="glycolysis-model-analysis" align="center">
-  <h2>Glycolysis Model Analysis</h2>
+<div id="schrodinger-equations-and-sunspot-distributionss" align="center">
+  <h2>Schrodinger Equations and Sunspot Distributions</h2>
 </div>
 
-<div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Glycolysis%20Model%20Analysis/Images/Eelectron%20Energy%20Levels.png?raw=true" width="600" height="400">
-</div>
+This assignment mainly focussed on glycolysis models, Schrodinger Equations, electron levels, and sunspot distributions. The following plot shows how an electron in a well of *V = 20 eV* and *w = 1 nm*, given 3 different energies for 6 different energy levels of the particle.
 
 <div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Glycolysis%20Model%20Analysis/Images/Sunspot%20Data.png?raw=true" width="600" height="400">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Schrodinger%20Equations%20and%20Sunspot%20Distributions/Images/Eelectron%20Energy%20Levels.png?raw=true" width="600" height="400">
+</div>
+
+After going through other quantum processes, the assignment turned to sunspot distributions. The objective here was to observe the fluctuations on a particular cycle given a distribution of sunspots. After a frequency was determined, a Fourier Transformation was applied to extract out a noticeable peak at a nonzero value *k*. This is a representation that there is one frequency in the Fourier Series that has a higher amplitude than the others around it, indicating a large sine-wave term with this frequency, which corresponds to the periodic wave seen in the original data.
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Schrodinger%20Equations%20and%20Sunspot%20Distributions/Images/Sunspot%20Data.png?raw=true" width="600" height="400">
 </div>
 
 <div id="lorenz-equations-and-the-strange-attractor" align="center">
