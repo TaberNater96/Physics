@@ -19,7 +19,7 @@ My first encounter with programming stemmed from a course I took during my Physi
 Throughout a single 10-week term, I immersed myself in computational physics projects and assignments without any prior exposure to programming. This experience is a testament to my quick learning abilities and my capacity to tackle complex and unfamiliar challenges head-on. These projects marked the beginning of my journey to where I stand today, igniting my passion for data, science, and programming.
 
 <div align="center">
-  <h2>Quick Summaries</h2>
+  <h2>Quick Summaries (TLDR)</h2>
 </div>
 
 ## Table of Contents
@@ -28,19 +28,25 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 - [Lorenz Equations and the Strange Attractor](#lorenz-equations-and-the-strange-attractor)
 - [Light Wavelength and Intensities](#light-and-orbital-mechanics)
 
-<div id="pixel-focussing-using-fourier-transformations">
+<div id="pixel-focussing-using-fourier-transformations" align="center">
   <h2>Pixel Focussing Using Fourier Transformations</h2>
 </div>
 
 This is probably my favorite transformation that I did in my computational physics class, where I took a blurred image in the form of a matrix and performed a complex inverse array transformation to unblur an image.
 
-![Blur](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Blur.png?raw=true)
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Blur.png?raw=true" width="600" height="600">
+</div>
 
-![Grid](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Grid%20Sample.png?raw=true)
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Grid%20Sample.png?raw=true" width="600" height="550">
+</div>
 
-![Focussed](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Focussed.png?raw=true)
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Focussed.png?raw=true" width="600" height="550">
+</div>
 
-<div id="solar-system-animation">
+<div id="solar-system-animation" align="center">
   <h2>Solar System Animation</h2>
 </div>
 
@@ -56,7 +62,7 @@ Although the dropdown button for planet selection is not visible during recordin
 <img src="https://github.com/TaberNater96/Physics/blob/main/Solar%20System%20Animation/Animations/Graph%20Animation.gif?raw=true" width="600" height="400">
 </div>
 
-<div id="lorenz-equations-and-the-strange-attractor">
+<div id="lorenz-equations-and-the-strange-attractor" align="center">
   <h2>Lorenz Equations and the Strange Attractor</h2>
 </div>
 
@@ -66,14 +72,14 @@ One of the most celebrated sets of differential equations in physics is the Lore
 
 ![The Strange Attractor](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/The%20Strange%20Attractor.png?raw=true)
 
-<div id="light-and-orbital-mechanics">
+<div id="light-and-orbital-mechanics" align="center">
   <h2>Light Wavelength and Intensities</h2>
 </div>
 
 This assignment explores the diffraction limit of telescopes through an analysis of light diffraction patterns using Bessel functions. It demonstrates the application of Simpson's Rule to compute these functions, which are crucial for describing the intensity variations in the diffraction pattern as light passes through a telescope's circular aperture. The calculated Bessel functions illustrate the oscillatory nature typical of wave phenomena.
 
 <div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Wave%20Diffraction.png?raw=true" width="400" height="350">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Wave%20Diffraction.png?raw=true" width="600" height="500">
 </div>
 
 &nbsp;
@@ -81,7 +87,7 @@ This assignment explores the diffraction limit of telescopes through an analysis
 Additionally, the code generates a detailed density plot of the circular diffraction pattern in the focal plane, showing how intensity varies with radial distance from the center. This visualization effectively highlights the central peak and surrounding concentric rings, illustrating the fundamental limits of resolution imposed by the physical properties of telescopes in astronomical observations.
 
 <div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Lightwave%20Intensity.png?raw=true" width="400" height="350">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Lightwave%20Intensity.png?raw=true" width="600" height="500">
 </div>
 
 
