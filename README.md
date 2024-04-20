@@ -80,6 +80,8 @@ After going through other quantum processes, the assignment turned to sunspot di
 <img src="https://github.com/TaberNater96/Physics/blob/main/Schrodinger%20Equations%20and%20Sunspot%20Distributions/Images/Sunspot%20Data.png?raw=true" width="600" height="400">
 </div>
 
+&nbsp;
+
 <div align="center">
 <img src="https://github.com/TaberNater96/Physics/blob/main/Schrodinger%20Equations%20and%20Sunspot%20Distributions/Images/FT%20Sunspots.png?raw=true" width="600" height="400">
 </div>
