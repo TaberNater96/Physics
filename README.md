@@ -92,9 +92,13 @@ After going through other quantum processes, the assignment turned to sunspot di
 
 One of the most celebrated sets of differential equations in physics is the Lorenz equations, which were first studied by Edward Lorenz in 1963, who derived them from a simplified model of weather patterns. The reason for their fame is that they were one of the first incontrovertible examples of *deterministic chaos*, the occurrence of apparently random motion even though there is no randomness built into the equations. Producing a plot of z vs x creates a butterfly shaped plot where the plot never repeats itself.
 
-![Random](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Random.png?raw=true)
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Random.png?raw=true" width="600" height="400">
+</div>
 
-![The Strange Attractor](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/The%20Strange%20Attractor.png?raw=true)
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/The%20Strange%20Attractor.png?raw=true" width="600" height="400">
+</div>
 
 <div id="light-and-orbital-mechanics" align="center">
   <h2>Light Wavelength and Intensities</h2>
