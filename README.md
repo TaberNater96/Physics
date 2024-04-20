@@ -10,6 +10,7 @@
   - [Fourier and Lorentz Transformations](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Fourier%20and%20Lorentz%20Transformations.ipynb)
   - [Solar System Animation (Term Project)](https://github.com/TaberNater96/Physics/tree/main/Solar%20System%20Animation)
   - [Light and Orbital Mechanics](https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Light%20and%20Orbital%20Mechanics.ipynb)
+  - [Glycolysis Model Analysis](https://github.com/TaberNater96/Physics/blob/main/Glycolysis%20Model%20Analysis/Glycolysis%20Model%20Analysis.ipynb)
 </details>
 
 &nbsp;
@@ -25,6 +26,7 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 ## Table of Contents
 - [Pixel Focussing Using Fourier Transformations](#pixel-focussing-using-fourier-transformations)
 - [Solar System Animation](#solar-system-animation)
+- [Glycolysis Model Analysis](#glycolysis-model-analysis)
 - [Lorenz Equations and the Strange Attractor](#lorenz-equations-and-the-strange-attractor)
 - [Light Wavelength and Intensities](#light-and-orbital-mechanics)
 
@@ -60,6 +62,18 @@ Although the dropdown button for planet selection is not visible during recordin
 
 <div align="center">
 <img src="https://github.com/TaberNater96/Physics/blob/main/Solar%20System%20Animation/Animations/Graph%20Animation.gif?raw=true" width="600" height="400">
+</div>
+
+<div id="glycolysis-model-analysis" align="center">
+  <h2>Glycolysis Model Analysis</h2>
+</div>
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Glycolysis%20Model%20Analysis/Images/Eelectron%20Energy%20Levels.png?raw=true" width="600" height="400">
+</div>
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Glycolysis%20Model%20Analysis/Images/Sunspot%20Data.png?raw=true" width="600" height="400">
 </div>
 
 <div id="lorenz-equations-and-the-strange-attractor" align="center">
