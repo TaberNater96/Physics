@@ -37,15 +37,15 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 This is probably my favorite transformation that I did in my computational physics class, where I took a blurred image in the form of a matrix and performed a complex inverse array transformation to unblur an image.
 
 <div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Blur.png?raw=true" width="600" height="500">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Blur.png?raw=true" width="600" height="550">
 </div>
 
 <div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Grid%20Sample.png?raw=true" width="600" height="500">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Grid%20Sample.png?raw=true" width="600" height="550">
 </div>
 
 <div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Focussed.png?raw=true" width="600" height="500">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/Focussed.png?raw=true" width="600" height="550">
 </div>
 
 <div id="solar-system-animation" align="center">
