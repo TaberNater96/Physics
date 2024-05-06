@@ -26,9 +26,9 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 ## Table of Contents
 - [Pixel Focussing Using Fourier Transformations](#pixel-focussing-using-fourier-transformations)
 - [Solar System Animation](#solar-system-animation)
+- [Light Wavelength and Intensities](#light-and-orbital-mechanics)
 - [Schrodinger Equations and Sunspot Distributions](#schrodinger-equations-and-sunspot-distributions)
 - [Lorenz Equations and the Strange Attractor](#lorenz-equations-and-the-strange-attractor)
-- [Light Wavelength and Intensities](#light-and-orbital-mechanics)
 
 <div id="pixel-focussing-using-fourier-transformations" align="center">
   <h2>Pixel Focussing Using Fourier Transformations</h2>
@@ -62,6 +62,24 @@ Although the dropdown button for planet selection is not visible during recordin
 
 <div align="center">
 <img src="https://github.com/TaberNater96/Physics/blob/main/Solar%20System%20Animation/Animations/Graph%20Animation.gif?raw=true" width="600" height="400">
+</div>
+
+<div id="light-and-orbital-mechanics" align="center">
+  <h2>Light Wavelength and Intensities</h2>
+</div>
+
+This assignment explores the diffraction limit of telescopes through an analysis of light diffraction patterns using Bessel functions. It demonstrates the application of Simpson's Rule to compute these functions, which are crucial for describing the intensity variations in the diffraction pattern as light passes through a telescope's circular aperture. The calculated Bessel functions illustrate the oscillatory nature typical of wave phenomena.
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Wave%20Diffraction.png?raw=true" width="600" height="400">
+</div>
+
+&nbsp;
+
+Additionally, the code generates a detailed density plot of the circular diffraction pattern in the focal plane, showing how intensity varies with radial distance from the center. This visualization effectively highlights the central peak and surrounding concentric rings, illustrating the fundamental limits of resolution imposed by the physical properties of telescopes in astronomical observations.
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Lightwave%20Intensity.png?raw=true" width="600" height="400">
 </div>
 
 <div id="schrodinger-equations-and-sunspot-distributionss" align="center">
@@ -98,24 +116,6 @@ One of the most celebrated sets of differential equations in physics is the Lore
 
 <div align="center">
 <img src="https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Images/The%20Strange%20Attractor.png?raw=true" width="600" height="400">
-</div>
-
-<div id="light-and-orbital-mechanics" align="center">
-  <h2>Light Wavelength and Intensities</h2>
-</div>
-
-This assignment explores the diffraction limit of telescopes through an analysis of light diffraction patterns using Bessel functions. It demonstrates the application of Simpson's Rule to compute these functions, which are crucial for describing the intensity variations in the diffraction pattern as light passes through a telescope's circular aperture. The calculated Bessel functions illustrate the oscillatory nature typical of wave phenomena.
-
-<div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Wave%20Diffraction.png?raw=true" width="600" height="500">
-</div>
-
-&nbsp;
-
-Additionally, the code generates a detailed density plot of the circular diffraction pattern in the focal plane, showing how intensity varies with radial distance from the center. This visualization effectively highlights the central peak and surrounding concentric rings, illustrating the fundamental limits of resolution imposed by the physical properties of telescopes in astronomical observations.
-
-<div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Lightwave%20Intensity.png?raw=true" width="600" height="500">
 </div>
 
 
