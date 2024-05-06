@@ -89,11 +89,11 @@ The next part simulated a spherical ball-bearing, discarded by a passing spacesh
 After simulating a fictional scenario, the next task was to apply astrodynamic equations to visualize a comet with an elongated orbit around the Sun. The majority of a comet's life is spent very far away in the Oort Cloud, and then as it gets closer to the Sun, its velocity drastically accelerates, resulting in a high-velocity projectile rapidly orbiting the Sun before returning back to its long trajectory to the Oort Cloud.
 
 <div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Images/Comet%20Orbital%20Trajectory.png?raw=true" width="600" height="400">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Images/Comet%20Orbital%20Trajectory.png?raw=true" width="600" height="450">
 </div>
 
 <div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Images/Comet%20Orbital%20Period.png?raw=true" width="600" height="400">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Images/Comet%20Orbital%20Period.png?raw=true" width="600" height="450">
 </div>
 
 &nbsp;
