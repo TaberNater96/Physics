@@ -71,7 +71,7 @@ Although the dropdown button for planet selection is not visible during recordin
 This assignment explores the diffraction limit of telescopes through an analysis of light diffraction patterns using Bessel functions. It demonstrates the application of Simpson's Rule to compute these functions, which are crucial for describing the intensity variations in the diffraction pattern as light passes through a telescope's circular aperture. The calculated Bessel functions illustrate the oscillatory nature typical of wave phenomena.
 
 <div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Wave%20Diffraction.png?raw=true" width="600" height="400">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Wave%20Diffraction.png?raw=true" width="600" height="550">
 </div>
 
 &nbsp;
