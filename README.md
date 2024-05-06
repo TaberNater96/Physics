@@ -9,6 +9,7 @@
     
   - [Fourier and Lorentz Transformations](https://github.com/TaberNater96/Physics/blob/main/Fourier%20and%20Lorentz%20Transformations/Fourier%20and%20Lorentz%20Transformations.ipynb)
   - [Solar System Animation (Term Project)](https://github.com/TaberNater96/Physics/tree/main/Solar%20System%20Animation)
+  - [Orbital Tracing and Electrostatic Potential](https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Orbital%20Tracing%20and%20Electrostatic%20Potential.ipynb)
   - [Light and Orbital Mechanics](https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Light%20and%20Orbital%20Mechanics.ipynb)
   - [Schrodinger Equations and Sunspot Distributions](https://github.com/TaberNater96/Physics/blob/main/Schrodinger%20Equations%20and%20Sunspot%20Distributions/Schrodinger%20Equations%20and%20Sunspot%20Distributions.ipynb)
 </details>
@@ -26,6 +27,7 @@ Throughout a single 10-week term, I immersed myself in computational physics pro
 ## Table of Contents
 - [Pixel Focussing Using Fourier Transformations](#pixel-focussing-using-fourier-transformations)
 - [Solar System Animation](#solar-system-animation)
+- [Orbital Tracing and Electrostatic Potential](#orbital-tracing-and-electrostatic-potential)
 - [Light Wavelength and Intensities](#light-and-orbital-mechanics)
 - [Schrodinger Equations and Sunspot Distributions](#schrodinger-equations-and-sunspot-distributions)
 - [Lorenz Equations and the Strange Attractor](#lorenz-equations-and-the-strange-attractor)
@@ -62,6 +64,52 @@ Although the dropdown button for planet selection is not visible during recordin
 
 <div align="center">
 <img src="https://github.com/TaberNater96/Physics/blob/main/Solar%20System%20Animation/Animations/Graph%20Animation.gif?raw=true" width="600" height="400">
+</div>
+
+<div id="orbital-tracing-and-electrostatic-potential" align="center">
+  <h2>Orbital Tracing and Electrostatic Potential</h2>
+</div>
+
+This assignment started off by visualizing the motion dynamics of a pendulum. A pendulum can be driven by exerting a small oscillating force horizonally on the mass. The following displays how a pendulum can be mapped, given its equation of motion.
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Images/Pendulum%20Dynamics.png?raw=true" width="600" height="400">
+</div>
+
+&nbsp;
+
+The next part simulated a spherical ball-bearing, discarded by a passing spaceship in zero gravity where the ball-bearing is orbiting around a heavy steel rod under the effects of gravitational pull. The idea here is to map the orbital path given an initial velocity in a vector plane. 
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Images/Orbital%20Pattern.png?raw=true" width="600" height="500">
+</div>
+
+&nbsp;
+
+After simulating a fictional scenario, the next task was to apply astrodynamic equations to visualize a comet with an elongated orbit around the Sun. The majority of a comet's life is spent very far away in the Oort Cloud, and then as it gets closer to the Sun, its velocity drastically accelerates, resulting in a high-velocity projectile rapidly orbiting the Sun before returning back to its long trajectory to the Oort Cloud.
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Images/Comet%20Orbital%20Trajectory.png?raw=true" width="600" height="400">
+</div>
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Images/Comet%20Orbital%20Period.png?raw=true" width="600" height="400">
+</div>
+
+&nbsp;
+
+The final section concentrated on the principles of electrostatic potential, more specifically using the Jacobi Method to solve Poisson's Equation.
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Images/Poisson's%20Electric%20Potential.png?raw=true" width="600" height="500">
+</div>
+
+&nbsp;
+
+In a real-world scenario, this can be applied to a simple capacitor with a specific set of dimensions. The following is representation of using **Gauss-Seidel with overrelaxation** to calculate the electrostatic potential in a 100 x 100 point grid, where the walls of the box are set to zero potential. 
+
+<div align="center">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Orbital%20Tracing%20and%20Electrostatic%20Potential/Images/Electrostatic%20Potential%20of%20a%20Capacitor.png?raw=true" width="600" height="500">
 </div>
 
 <div id="light-and-orbital-mechanics" align="center">
