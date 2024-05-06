@@ -79,7 +79,7 @@ This assignment explores the diffraction limit of telescopes through an analysis
 Additionally, the code generates a detailed density plot of the circular diffraction pattern in the focal plane, showing how intensity varies with radial distance from the center. This visualization effectively highlights the central peak and surrounding concentric rings, illustrating the fundamental limits of resolution imposed by the physical properties of telescopes in astronomical observations.
 
 <div align="center">
-<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Lightwave%20Intensity.png?raw=true" width="600" height="550">
+<img src="https://github.com/TaberNater96/Physics/blob/main/Light%20and%20Orbital%20Mechanics/Images/Lightwave%20Intensity.png?raw=true" width="600" height="500">
 </div>
 
 <div id="schrodinger-equations-and-sunspot-distributionss" align="center">
