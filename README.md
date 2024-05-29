@@ -54,7 +54,7 @@ This is probably my favorite transformation that I did in my computational physi
   <h2>Solar System Animation</h2>
 </div>
 
-For my term project in computational physics, I developed an animation that accurately depicts the solar system using, modeling the orbits of each planet. The code for this animation is built using VPython, otherwise known as GlowScript. This animation is a true-to-life representation, where the scale of the planets is proportional to the Sun, and each planet follows its real-life orbital path, velocity, rotation, and angle. The animation here is sped up to 10,000 times faster than in real life, but can be adjusted down to 1 if desired.
+For my term project in computational physics, I developed an animation that accurately depicts the solar system using the orbital mechanics of each planet. The code for this animation is built using VPython, otherwise known as GlowScript. This animation is a true-to-life representation, where the scale of the planets is proportional to the Sun, and each planet follows its real-life orbital path, velocity, rotation, and angle. The animation here is sped up to 10,000 times faster than in real life, but can be adjusted down to 1 if desired.
 
 <div align="center">
 <img src="https://github.com/TaberNater96/Physics/blob/main/Solar%20System%20Animation/Animations/Solar%20System%20Animation.gif?raw=true" width="800" height="400">
